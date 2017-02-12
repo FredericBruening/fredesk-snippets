@@ -26,8 +26,11 @@
                   <span></span>
                 </span>
                 <div class="nav-right nav-menu">
-                  <a class="nav-item">
+                  <a href="http://fredesk.com" class="nav-item">
                     --> Fredesk.com
+                  </a>
+                  <a href="http://blog.fredesk.com" class="nav-item">
+                    Blog
                   </a>
                 </div>
               </div>
